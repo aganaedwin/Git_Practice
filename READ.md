@@ -16,4 +16,3 @@ https://codingforeverybody.com/snippets/git-lg
 git lg
 
 .gitconfig
-
